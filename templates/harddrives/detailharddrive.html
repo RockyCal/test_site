@@ -1,0 +1,24 @@
+<h1>Harddrive: {{ harddrive.serial_number }}</h1>
+
+<ul>
+  <li>
+      Holds file --
+      <a href="/harddrives/detailfile/{{ harddrive.file.name }}/"
+      >{{ harddrive.file.name}}</a>
+  </li>
+  {% if harddrive.in_box %}
+  <li>
+      Contained in --
+      <a href="/harddrives/detailowner/{{ harddrive.owner.name }}/"
+      >{{ harddrive.owner.name}}</a>
+  </li>
+  {% endif %}
+  {% if not harddrive.in_box %}
+  <li>
+      Held by --
+      <a href="/harddrives/detailowner/{{ harddrive.owner.name }}/"
+      >{{ harddrive.owner.name}}</a>
+  </li>
+  {% endif %}
+  <li> StartUp Date -- {{harddrive.startup_date}} </li>
+<ul>

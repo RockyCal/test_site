@@ -1,0 +1,9 @@
+<h2>Employee</h2>
+<ul>
+    {% for Employee in object_list %}
+         <li>
+             <a href="/harddrives/detailowner/{{ Employee.name }}/"
+             >{{ Employee.name }}</a>
+         </li>
+    {% endfor %}
+</ul>

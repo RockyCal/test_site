@@ -1,0 +1,6 @@
+<h2>Boxes</h2>
+<ul>
+    {% for Box in object_list %}
+        <li><a href="/harddrives/detailowner/{{ Box.name }}/">{{ Box.name }}</a></li>
+    {% endfor %}
+</ul>

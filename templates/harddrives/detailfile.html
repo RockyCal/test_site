@@ -1,0 +1,28 @@
+<h1>File: {{ file.name }}</h1>
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+
+<ul>
+{% for Harddrive in file.harddrive_set.all %}
+    {% if Harddrive.in_box %}
+        <li> 
+             <a href="/harddrives/detailharddrive/{{ Harddrive.serial_number}}/"
+             >{{ Harddrive.serial_number }}</a> 
+             -- in box         
+            <a href="/harddrives/detailowner/{{ Harddrive.owner.name}}/"
+            >{{ Harddrive.owner}}</a>
+</li>
+    {% endif %}
+    {% if not Harddrive.in_box %}
+        <li>
+            <a href="/harddrives/detailharddrive/{{ Harddrive.serial_number}}/"
+            >{{ Harddrive.serial_number }}</a>
+            -- held by 
+            <a href="/harddrives/detailowner/{{ Harddrive.owner.name}}/"
+            >{{ Harddrive.owner}}</a>
+        </li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+<p> <a href="/harddrives/historyfile/{{ file.name }}/">View History of {{file.name}}</a><p>

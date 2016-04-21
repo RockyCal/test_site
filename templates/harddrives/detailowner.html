@@ -1,0 +1,20 @@
+<h1>{{ owner.name }}</h1>
+
+{% if owner.isabox %}
+    <p> Box Contains: </p>
+{% endif %}
+
+{% if not owner.isabox %}
+    <p> Has Checked Out: </p>
+{% endif %}
+
+<ul>
+{% for Harddrive in owner.harddrive_set.all %}
+    <li> 
+        <a href="/harddrives/detailfile/{{ Harddrive.file.name }}/"
+        >{{ Harddrive.file.name }}</a>
+    </li>
+{% endfor %}
+</ul>        
+
+<p> <a href="/harddrives/historyowner/{{ owner.name }}/">View History of {{owner.name}}</a><p>

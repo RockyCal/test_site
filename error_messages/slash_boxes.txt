@@ -1,0 +1,82 @@
+Python 2.6.6 (r266:84292, Jan 22 2014, 09:42:36) 
+[GCC 4.4.7 20120313 (Red Hat 4.4.7-4)] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+HRP Slash -- Aleut02-BD
+XWAV Slash -- GofAK_KO02
+HRP Slash -- GofCA05-PP
+XWAV Slash -- GofMX_MC05
+XWAV Slash -- GofMX_MC07
+HRP Slash -- GofMX_MP03
+HRP Slash -- Hawaii04-K
+Archive HRP Slash -- Hawaii04-K
+HRP Slash -- LJ01-P
+Archive HRP Slash -- LJ01-P
+HRP Slash -- OCNMS01-QC
+Archive HRP Slash -- OCNMS01-QC
+HRP Slash -- OCNMS08-QC
+Archive HRP Slash -- OCNMS08-QC
+Archive HRP Slash -- OCNMS12-QC
+XWAV Slash -- OCNMS13-CE
+HRP Slash -- OCNMS15-CE
+Archive HRP Slash -- OCNMS15-CE
+XWAV Slash -- OCNMS15-CE
+HRP Slash -- PAL01-WT
+Archive HRP Slash -- PAL01-WT
+XWAV Slash -- PAL01-WT
+HRP Slash -- PAL02-WT
+XWAV Slash -- PS12-PS1
+HRP Slash -- Socal01-A
+HRP Slash -- Socal02-B
+HRP Slash -- Socal02-C
+HRP Slash -- Socal03-A
+Archive HRP Slash -- Socal03-A
+HRP Slash -- Socal03-B
+HRP Slash -- Socal03-C
+HRP Slash -- Socal03-D
+HRP Slash -- Socal03-E
+HRP Slash -- Socal04-B
+HRP Slash -- Socal05-A
+HRP Slash -- Socal05-C
+HRP Slash -- Socal06-D
+Archive HRP Slash -- Socal06-D
+HRP Slash -- Socal06-F
+HRP Slash -- Socal08-A
+HRP Slash -- Socal10-C
+HRP Slash -- Socal15-A
+HRP Slash -- Socal18-H
+Archive HRP Slash -- Socal19-E
+HRP Slash -- Socal19-X
+Archive HRP Slash -- Socal19-X
+HRP Slash -- Socal20-B
+Archive HRP Slash -- Socal20-B
+HRP Slash -- Socal21-F
+Archive HRP Slash -- Socal21-F
+HRP Slash -- Socal22-C
+Archive HRP Slash -- Socal22-C
+Archive HRP Slash -- Socal23-G
+HRP Slash -- Socal24-A2
+Archive HRP Slash -- Socal27-A2
+HRP Slash -- Socal27-G
+Archive HRP Slash -- Socal27-G
+Archive HRP Slash -- Socal28-A2
+Archive HRP Slash -- Socal30-H-Q1-DL11
+Archive HRP Slash -- Socal30-H-Q1-DL19
+Archive HRP Slash -- Socal30-H-Q1-DL24
+Archive HRP Slash -- Socal30-H-Q1-DL30
+Archive HRP Slash -- Socal30-H-Q2-DL26
+Archive HRP Slash -- Socal30-H-Q2-DL27
+Archive HRP Slash -- Socal30-H-Q2-DL28
+Archive HRP Slash -- Socal30-H-Q2-DL29
+HRP Slash -- Socal32-J
+Archive HRP Slash -- Socal32-J
+Archive HRP Slash -- Socal33-C
+HRP Slash -- Socal33-H
+HRP Slash -- Socal33-M
+XWAV Slash -- Socal34-M
+XWAV Slash -- Socal41-NW
+HRP Slash -- Socal44-M
+XWAV Slash -- Socal49-M
+
+KeyboardInterrupt
+

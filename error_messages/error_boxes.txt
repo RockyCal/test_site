@@ -1,0 +1,58 @@
+Python 2.6.6 (r266:84292, Jan 22 2014, 09:42:36) 
+[GCC 4.4.7 20120313 (Red Hat 4.4.7-4)] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+Is Lowercase -- Cabinet na
+Is Empty -- (In Use)
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- missing (in use)
+Is Empty -- (unknown)
+Is Empty -- (In Use)
+Is Lowercase -- Ryan Griswold
+Is Lowercase -- Ryan Griswold
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- In Use
+Is Empty -- (In Use)
+Is Empty -- (NULL)
+Is Empty -- (In Use)
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Lowercase -- Storage
+Is Empty -- (In Use)
+Is Lowercase -- Storage
+Is Empty -- (In Use)
+Is Lowercase -- Archive Box 10 and/or 24
+Is Lowercase -- Archive Box 10 and/or 24
+Is Lowercase -- Archive Box 10 and/or 24
+Is Lowercase -- Archive Box 10 and/or 24
+Is Lowercase -- Archive Box 10 and/or 24
+Is Lowercase -- Archive Box 10 and/or 24
+Is Lowercase -- Archive Box 10 and/pr 24
+Is Empty -- (In Use)
+Is Empty -- (In Use)
+Is Empty -- (In Use)
+Is Empty -- (In Use)
+Is Empty -- (In Use)
+Is Empty -- (In Use)
+Is Empty -- (In Use)
+Is Empty -- (In Use)
+Is Empty -- (In Use)
+Is Empty -- (In Use)
+Is Empty -- (In use, Gasman)
+Is Empty -- (in use, Gasman)
+Is Lowercase -- Duke
+
+KeyboardInterrupt
+

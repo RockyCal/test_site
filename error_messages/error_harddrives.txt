@@ -1,0 +1,172 @@
+Python 2.6.6 (r266:84292, Jan 22 2014, 09:42:36) 
+[GCC 4.4.7 20120313 (Red Hat 4.4.7-4)] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+NOT DIGIT -- Arctic01A;01B_d07;3 -- DR --d07
+NOT DIGIT -- Arctic01A;01B_d07;3 -- DR --d07
+UNKNOWN STYLE -- Laptop Harddrives
+NOT DIGIT -- Bering02M2_d014,16;02M4_d012,16.hrp -- DR --d014,16
+UNKNOWN STYLE -- Laptop Harddrives
+NOT DIGIT -- Bering02M2_d014,16;02M4_d012,16.hrp -- DR --d014,16
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- CINMS09B D1-16.hrp
+UNKNOWN STYLE -- CINMS09B 1-16.hrp backups
+UNKNOWN STYLE -- CINMS09C 1-16.hrp backups
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- GofAK_CA03,PT02,KO01.hrp
+NOT DIGIT -- GofAK_CA03_d01-02,KO01_d01.xwav -- DR --d01-02,
+UNKNOWN STYLE -- GofAK_CA03,PT02,KO01.hrp_bkup
+NOT DIGIT -- GofAK_CA04/KO02_d13;CB04_d13-14.xwav -- DR --d13
+NOT DIGIT -- GofAK_CA04/KO02_d13;CB04_d13-14.xwav -- DR --d13
+UNKNOWN STYLE -- GofAK_CA03,PT02,KO01.hrp
+NOT DIGIT -- GofAK_CA03_d01-02,KO01_d01.xwav -- DR --d01-02,
+UNKNOWN STYLE -- GofAK_CA03,PT02,KO01.hrp_bkup
+NOT DIGIT -- GofAK_CA04/KO02_d13;CB04_d13-14.xwav -- DR --d13
+UNKNOWN STYLE -- GofAK_CA03,PT02,KO01.hrp
+UNKNOWN STYLE -- GofAK_CA03,PT02,KO01.hrp_bkup
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- GofCA-A4 D-13, GofCA4A5 D-16, GofCa4A6 D-16.hrp#ht
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+NOT DIGIT -- GofCA 05 Disks 10;11,16.hrp -- DR --d10
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- GofMX MC05 Disk 1-10.hrp backup
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- GofMX MP04 Disk 9.xwav
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- LJ07 d1-4,9-13 LJ09 d1-2.xwav
+UNKNOWN STYLE -- LJ17_LJ19.hrp
+UNKNOWN STYLE -- LJ Site P
+UNKNOWN STYLE -- LJ17_LJ19.hrp_bkup
+UNKNOWN STYLE -- LJ17_LJ19.hrp
+UNKNOWN STYLE -- LJ Site P
+UNKNOWN STYLE -- LJ17_LJ19.hrp_bkup
+UNKNOWN STYLE -- LJ17_LJ19.hrp
+UNKNOWN STYLE -- LJ17_LJ19.hrp_bkup
+NOT DIGIT -- LJ21P2_d01-02 & LJ21P3_d01-02.hrp -- DR --d01-02
+NOT DIGIT -- LJ21P2_d01-02 & LJ21P3_d01-02.xwav -- DR --d01-02
+NOT DIGIT -- LJ21P2_d01-02 & LJ21P3_d01-02.hrp_bkup -- DR --d01-02
+NOT DIGIT -- LJ21P2_d01-02 & LJ21P3_d01-02.hrp -- DR --d01-02
+NOT DIGIT -- LJ21P2_d01-02 & LJ21P3_d01-02.xwav -- DR --d01-02
+NOT DIGIT -- LJ21P2_d01-02 & LJ21P3_d01-02.hrp_bkup -- DR --d01-02
+UNKNOWN STYLE -- WGtest
+UNKNOWN STYLE -- WGtest
+UNKNOWN STYLE -- NWHI02 Disk 1-5*.xwav
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- OCNMS04CE Disk 9*.xwav (NE)
+NOT DIGIT -- OCNMS04SH Disks 6-9 EXT 3.hrp -- DR --d6-9
+NOT DIGIT -- OCNMS04QC;SH Disks 8,15; 1-5 EXT 3.hrp -- DR --d8,15
+UNKNOWN STYLE -- OCNMS04QC Disk 15*.xwav (NE)
+NOT DIGIT -- OCNMS04QC; SH Disks 1-8, 15 EXT 3.hrp -- DR --d1-8,15
+UNKNOWN STYLE -- OCNMS05CE Disk 9 laptop harddrive
+NOT DIGIT -- OCNMS05 CE;QC Disks 9*;9*.xwav -- DR --d9
+UNKNOWN STYLE -- OCNMS05QC Disk 9 laptop harddrive
+NOT DIGIT -- OCNMS05 CE;QC Disks 9*;9*.xwav -- DR --d9
+NOT DIGIT -- OCNMS16QC_d01-08;16CE_d01-02.hrp -- DR --d01-08
+NOT DIGIT -- OCNMS16QC_d01-08;16CE_d01-02.hrp_bkup -- DR --d01-08
+NOT DIGIT -- OCNMS16QC_d01-08;16CE_d01-02.hrp -- DR --d01-08
+NOT DIGIT -- OCNMS16QC_d01-08;16CE_d01-02.hrp_bkup -- DR --d01-08
+UNKNOWN STYLE -- (NULL)
+NOT DIGIT -- Palmyra02 Disks 13,14; Palmyra03 Disk03.hrp EXT3 -- DR --d13,14
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Palmyra 02/03 13,14; 13
+UNKNOWN STYLE -- Palmyra 02 13-16.hrp backups
+NOT DIGIT -- Palmyra02 Disks 13,14; Palmyra03 Disk03.hrp EXT3 -- DR --d13,14
+NOT DIGIT -- Palmyra04 Disks 9-11,15-16; SOCAL26H Disk 12.hrp -- DR --d9-11,15-16
+NOT DIGIT -- Palmyra04 Disks 8-11,15,16 + Socal26H D12 (FAT32) -- DR --d8-11,15,16
+NOT DIGIT -- NPS PS01 Disks 9-13xwav -- DR --d9-13
+UNKNOWN STYLE -- Laptop Harddrives
+NOT DIGIT -- Socal01A Disks 15-16; Socal01B Disks 1.hrp -- DR --d15-16
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+NOT DIGIT -- Socal 02B; 10C Disks 16;16.hrp (BoxL) -- DR --d16
+NOT DIGIT -- SOCAL 02B; 10C Disks 16;16.hrp -- DR --d16
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Socal03B Disk 1
+UNKNOWN STYLE -- Socal03C Disk 1
+NOT DIGIT -- Socal05E Disks 10-11; 03D Disk 16.hrp, Socal03D Di -- DR --d10-11
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Socal03E Disk 1
+UNKNOWN STYLE -- Socal04B Disk 1
+NOT DIGIT -- Socal05E Disks 15-16; 05A Disk16 .hrp, Socal 05A D -- DR --d15-16
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Socal05C Disk 16; 08A Disk 16; 09B Disk 16.hrp, So
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Socal06F Disk 1
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- Socal05C Disk 16; 08A Disk 16; 09B Disk 16.hrp
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Socal05C Disk 16; 08A Disk 16; 09B Disk 16.hrp
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Socal 10C Disk 16 (laptophd)
+UNKNOWN STYLE -- Socal 10C 1-14 EXT 3
+NOT DIGIT -- Socal16B Disks Disks 1-4 .hrp -- DR --d
+INDEX ERROR -- Socal16B Disks Disks 1-4 .hrp
+UNKNOWN STYLE -- Laptop Harddrives
+UNKNOWN STYLE -- Socal23H Disk 9 .hrp .xwav
+UNKNOWN STYLE -- Socal23H Disk 9 .hrp .xwav
+UNKNOWN STYLE -- Laptop Harddrives
+NOT DIGIT -- Socal27A2 Disks 1-14*; 28A2 D9.hrp backup -- DR --d1-14
+UNKNOWN STYLE -- Socal27 Backup Array Data
+NOT DIGIT -- Socal27A2 Disks 9-14*; SOCAL28A2 Disk 9*.hrp -- DR --d9-14
+NOT DIGIT -- Socal27A2 Disks 9-14*; SOCAL28A2 Disk 9*.xwav -- DR --d9-14
+NOT DIGIT -- Socal27A2 Disks 9-14; 28A2 D9 -- DR --d9-14
+NOT DIGIT -- Socal31A2 Disks 1-8xwav -- DR --d1-8
+UNKNOWN STYLE -- Socal32A2 Disk 1-8.xwav
+UNKNOWN STYLE -- Socal32A2 Disk 9-16.xwav
+UNKNOWN STYLE -- Socal 33SN 1-16.hrp
+UNKNOWN STYLE -- Socal34TB Disk1*.hrp.xwav
+UNKNOWN STYLE -- Socal34TB Disk1*.hrp.xwav
+UNKNOWN STYLE -- Socal34TB Disk 1* .hrp .xwav backup
+UNKNOWN STYLE -- Socal36P D1-9*; Socal37P .hrp
+UNKNOWN STYLE -- Socal36P D1-9*; Socal37P .hrp backup
+UNKNOWN STYLE -- Socal36P D1-9*; Socal37P .hrp
+UNKNOWN STYLE -- Socal37P DL19/DL43 .xwav
+UNKNOWN STYLE -- Socal36P D1-9*; Socal37P .hrp backup
+UNKNOWN STYLE -- Socal36P D1-9*; Socal37P .hrp
+UNKNOWN STYLE -- Socal37P DL19/DL43 .xwav
+UNKNOWN STYLE -- Socal36P D1-9*; Socal37P .hrp backup
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- SOCAL 41 NE hrp, xwav, dec
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- SOCAL 41 NE xwav, hrp, dec
+UNKNOWN STYLE -- SOCAL 41NS 1-5.hrp backups
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- (NULL)
+UNKNOWN STYLE -- SOCAL46M_05,07-10.xwav
+UNKNOWN STYLE -- WG02 Disk 1* .hrp
+UNKNOWN STYLE -- WG02 Disk1*.xwav
+UNKNOWN STYLE -- WG02 Disk 1* .hrp backup
+UNKNOWN STYLE -- WG03 Disk 1* .hrp
+UNKNOWN STYLE -- WG03 Disk 1* .hrp .xwav
+UNKNOWN STYLE -- WG03 Disk 1* .hrp .xwav backup
+UNKNOWN STYLE -- WG04 Disk1*.xwav
+UNKNOWN STYLE -- d01-08&done&0&7E
+UNKNOWN STYLE -- d09-12&&2&7E
+UNKNOWN STYLE -- d13-16&&3&4E
+UNKNOWN STYLE -- &&0&7E
+UNKNOWN STYLE -- &&0&7E
+UNKNOWN STYLE -- &&0&7E
+
+KeyboardInterrupt
+

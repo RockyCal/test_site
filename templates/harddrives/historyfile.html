@@ -1,0 +1,49 @@
+<h1>History of File: <a href="/harddrives/detailfile/{{file.name}}/">{{file.name}}</a></h1>
+
+{% for Harddrive in file.harddrive_set.all %}
+<h2><a href="/harddrives/detailharddrive/{{Harddrive.serial_number}}/"
+    >{{ Harddrive.serial_number }}</a></h2>
+<ul>
+    {% for History in Harddrive.history_set.all %} 
+        {% if History.oldowner.isabox and not History.newowner.isabox %}
+        <li> Checked out by -
+            <a href="/harddrives/detailowner/{{History.newowner.name}}/"
+            >{{ History.newowner.name }}</a>
+             From -
+            <a href="/harddrives/detailowner/{{History.oldowner.name}}/"
+            >{{ History.oldowner.name }}</a>
+        </li>
+        {% endif %}
+    
+        {% if not History.oldowner.isabox and not History.newowner.isabox %}
+        <li> Exchanged to -
+            <a href="/harddrives/detailowner/{{History.newowner.name}}/"
+            >{{ History.newowner.name }}</a>
+             From -
+            <a href="/harddrives/detailowner/{{History.oldowner.name}}/"
+            >{{ History.oldowner.name }}</a>
+        </li>
+        {% endif %}
+    
+        {% if History.oldowner.isabox and History.newowner.isabox %}
+        <li> Moved to -
+            <a href="/harddrives/detailowner/{{History.newowner.name}}/"
+            >{{ History.newowner.name }}</a>
+             From -
+            <a href="/harddrives/detailowner/{{History.oldowner.name}}/"
+            >{{ History.oldowner.name }}</a>
+        </li>
+        {% endif %}
+
+        {% if not History.oldowner.isabox and History.newowner.isabox %}
+        <li> Returned to -
+            <a href="/harddrives/detailowner/{{History.newowner.name}}/"
+            >{{ History.newowner.name }}</a>
+             By -
+            <a href="/harddrives/detailowner/{{History.oldowner.name}}/"
+            >{{ History.oldowner.name }}</a>
+        </li>
+        {% endif %}
+    {% endfor %}
+</ul>
+{% endfor %}

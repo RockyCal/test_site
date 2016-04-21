@@ -1,0 +1,44 @@
+Python 2.6.6 (r266:84292, Jan 22 2014, 09:42:36) 
+[GCC 4.4.7 20120313 (Red Hat 4.4.7-4)] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+ARCTIC09-C2 -- Recovery Information
+BERING02-M2 -- Data Logger Configurations
+BERING02-M4 -- Data Logger Configurations
+BM02-A -- Recovery Information
+CINMS25-B -- Recovery Information
+CINMS25-C -- Recovery Information
+GofAK_CA05 -- Recovery Information
+GofAK_CB05 -- Recovery Information
+GofAK_KO03 -- Recovery Information
+GofAK_PT04 -- Recovery Information
+GofAK_QN03 -- Recovery Information
+GofMX_DC07 -- Recovery Information
+GofMX_DT07 -- Recovery Information
+GofMX_GC07 -- Recovery Information
+GofMX_HH03 -- Recovery Information
+GofMX_MC09 -- Recovery Information
+GofMX_MP07 -- Recovery Information
+HARO1 -- Recovery Information
+HARO1 -- Data Logger Configurations
+HAT04-A -- Recovery Information
+Hawaii17-K -- Recovery Information
+JAX08-A -- Recovery Information
+LJ22-P1 -- Recovery Information
+LJ26-A-DL66 -- Data Processing
+LJ26-A-DL72 -- Data Processing
+LJ27-P -- Recovery Information
+LJ27-P-B -- Data Processing
+NFC01-A -- Recovery Information
+NWP01-A -- Recovery Information
+OCNMS17-QC -- Recovery Information
+OTSG04-CORC2 -- Recovery Information
+OTSG04-CORC2 -- Data Logger Configurations
+PHR07-A -- Recovery Information
+Socal12-A -- Data Logger Configurations
+Socal12-B -- Data Logger Configurations
+Socal53-H -- Recovery Information
+Socal53-M -- Recovery Information
+Socal53-N -- Recovery Information
+Socal53-SN -- Recovery Information
+

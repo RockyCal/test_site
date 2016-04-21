@@ -1,0 +1,6 @@
+<h2>Files</h2>
+<ul>
+    {% for File in object_list %}
+        <li><a href="/harddrives/detailfile/{{ File.name }}/">{{ File.name }}</a></li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,9 @@
+<h2>Harddrives</h2>
+<ul>
+    {% for Harddrive in object_list %}
+         <li>
+             <a href="/harddrives/detailharddrive/{{Harddrive.serial_number}}/"
+             >{{ Harddrive.serial_number }}</a>
+         </li>
+    {% endfor %}
+</ul>

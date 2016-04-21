@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<title>MooTools Test</title>
+	<style>
+	.hide {display:none;}
+	</style>
+	<script src="//ajax.googleapis.com/ajax/libs/mootools/1.4.5/mootools-yui-compressed.js"></script>
+	<script type="text/javascript">
+		window.addEvent('domready', function() {
+			$$('p.hide').setStyle('display', 'block');
+		});
+	</script>
+</head>
+<body>
+	<h1>MooTools Test</h1>
+	<p class="hide">If you see this, MooTools is working.</p>
+</body>
+</html>
